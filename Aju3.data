@@ -1,0 +1,47 @@
+quiz_data = [
+
+    {
+
+        "question": "Which planet has the most rings?",
+
+        "choices": ["Jupiter", "Uranus", "Saturn", "Neptune"],
+
+        "answer": "Saturn"
+
+    },
+
+    {
+
+        "question": "What is the largest planet in our solar system?",
+
+        "choices": ["Jupiter", "Saturn", "Mars", "Earth"],
+
+        "answer": "Jupiter"
+
+    },
+
+    {
+
+        "question": "What is the hottest planet in our solar system?",
+
+        "choices": ["Mars", "Mercury", "Neptune", "Venus"],
+
+        "answer": "Venus"
+
+    },
+
+    {
+
+        "question": "What is the  name of the largest volcano in our solar system?",
+
+        "choices": ["Mount Everest", "Olympus Mons", " Mount Kilimanjaro", "Mount Vesuvius"],
+
+        "answer": "Olympus Mons"
+
+
+
+    }
+
+
+
+]
